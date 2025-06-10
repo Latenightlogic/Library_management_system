@@ -1,4 +1,4 @@
-# 📚 Library Management System (Text-Based)
+# 📚 Library Management System 
 
 This is a basic text-based Library Management System made using Python. I created this project as part of my early learning in programming to practice file handling, functions, and user input. It stores and manages book data using a `.txt` file.
 
@@ -27,9 +27,8 @@ I wanted to start small with a manageable but useful project. I like books, so t
 2. Download or clone the repo  
 3. Run the code in your terminal or IDE (like VS Code)
 
-```bash
-python library_system.py
 
+python library_system.py
 
 
 # Notes
@@ -40,10 +39,3 @@ This is my first fully functional project with file handling and menu-based user
 I'm a student currently exploring programming and trying to improve through hands-on learning. I'm also interested in robotics and creative arts like painting and crochet. You can check out more projects on my GitHub as I grow!
 
 
-
-
-#After pasting:
-- Save the file
-- Upload it to your GitHub repository (if you haven’t yet)
-
-Let me know once it’s uploaded — then I’ll help you with the GitHub link and next steps like editing your other project.
