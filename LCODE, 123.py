@@ -1,4 +1,4 @@
-FileName = r"C:\Users\rohan\OneDrive\Desktop\New folder (2)\Library system.txt"
+FileName = "library_system.txt"
 
 def add_book(library):
     file = open(FileName, "a")
